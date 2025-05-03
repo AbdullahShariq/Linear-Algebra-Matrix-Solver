@@ -34,4 +34,5 @@ A simple command-line program written in C that performs essential matrix operat
 ### Compile the Code
 
 bash
+
 gcc main.c -o matrix_solver
