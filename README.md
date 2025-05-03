@@ -13,22 +13,6 @@ A simple command-line program written in C that performs essential matrix operat
 
 ---
 
-## Screenshots
-
-### Transpose of a Matrix
-![Transpose](images/transpose.png)
-
-### Minor Matrix
-![Minor](images/minor.png)
-
-### Cofactor Matrix
-![Cofactor](images/cofactor.png)
-
-### Inverse Matrix
-![Inverse](images/inverse.png)
-
----
-
 ## How to Compile and Run
 
 ### Compile the Code
