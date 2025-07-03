@@ -32,7 +32,7 @@ To compile and run this program, you need:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/Linear-Algebra-Matrix-Solver.git
+git clone https://github.com/AbdullahShariq/Linear-Algebra-Matrix-Solver.git
 cd Linear-Algebra-Matrix-Solver
 ```
 ### 2.Compile the Code
